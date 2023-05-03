@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TDWONDER PORTFOLIO
+
+<h1>This is my portfolio website built with React Js 
+Hosting URL: https://td-port.web.app/</h1>
+<h1><a href="https://td-port.web.app/">Click to View</a></h1>
+>>>>>>> 1d030ca1b404f57254f762cc05b66b3b4bb7061d

@@ -7,7 +7,7 @@ export const Blog = () => {
     <>
       <section className='blog'>
         <div className='container'>
-          <Heading title='Blog' />
+          <Heading title='Favorite Blog Posts' />
           <div className='content grid3'>
             {blog.map((item) => (
               <a

@@ -90,25 +90,25 @@ export const project = [
   {
     id: 1,
     icon: <CloudOutlined />,
-    num: "49",
+    num: "40",
     title: "HAPPY CLIENTS",
   },
   {
     id: 2,
     icon: <FavoriteBorder />,
-    num: "101",
+    num: "50",
     title: "PROJECTS COMPLETED",
   },
   {
     id: 3,
     icon: <Public />,
-    num: "70",
+    num: "300",
     title: "FILES DOWNLOADED",
   },
   {
     id: 4,
     icon: <PersonOutlined />,
-    num: "1446",
+    num: "10446",
     title: "LINES OF CODE",
   },
 ]

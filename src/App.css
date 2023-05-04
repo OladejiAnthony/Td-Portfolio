@@ -580,6 +580,7 @@ footer i {
     width: 100vw;
     margin-top: 50px;
   }
+
   .hero.counter::after {
     height: 70vh;
     width: 100vw;
@@ -669,6 +670,9 @@ footer i {
   }
   section.services .container {
     max-width: 90%;
+  }
+  section.services .grid3 {
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .hero.counter {
